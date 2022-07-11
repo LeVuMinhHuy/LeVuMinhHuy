@@ -1,4 +1,4 @@
-### Le vu Minh Huy | Ted
+### Le Vu Minh Huy | Ted
 
 I'm trying to be an any-stack developer, which means I'd love to explore new stacks, languages, ... in order to build more awesome, performant project.
 
