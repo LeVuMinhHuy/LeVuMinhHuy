@@ -1,3 +1,3 @@
-Ted
+i'm ted
 
-Windows is not that bad, VSCode as well, also running, relaxing, life enjoying, etc.
+and i wish i do more running
